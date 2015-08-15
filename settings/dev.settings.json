@@ -1,7 +1,9 @@
 {
+  "BIND_IP": "0.0.0.0",
   "ROOT_URL": "",
   "MONGO_URL": "",
   "MAIL_URL": "",
+  "PACKAGE_DIRS": "./packages/",
   "reaction": {
     "METEOR_USER": "",
     "METEOR_AUTH": "",

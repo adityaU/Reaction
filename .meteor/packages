@@ -23,6 +23,7 @@ reactioncommerce:reaction-braintree
 reactioncommerce:reaction-stripe
 reactioncommerce:reaction-auth-net
 reactioncommerce:reaction-social
+gouthamve:reaction-razorpay
 
 # Community Packages
 spencern:reaction-analytics-libs
@@ -35,3 +36,4 @@ nemo64:bootstrap
 #meteorhacks:kadira
 #meteorhacks:kadira-profiler
 #meteortoys:allthings
+gouthamve:reaction-cod
